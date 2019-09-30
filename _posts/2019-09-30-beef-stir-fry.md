@@ -5,29 +5,41 @@ categories:
   - Entree
 featured_image: /images/beef-stir-fry.jpg
 recipe:
-  servings: 60 cookies
-  prep: 15 minutes
-  cook: 15 minutes
+  servings: 2 servings
+  prep: 30 minutes
+  cook: 30 minutes
   ingredients_markdown: |-
-    * 250g thinly sliced steak
-    * 0.5 cup low-sodium soy sos
-    * 1 red bellpepper
-    * 1 cup diced carrots
+    **STIR FRY**
+    * 250g steak, thinly sliced
+    * 1 medium red bell pepper, thinly sliced lengthwise
+    * 1 medium onion, thinly sliced lengthwise
+    * 1 cup carrots, thinly sliced lengthwise
+    * 0.5 cup green onions, diced
+    * 3 cloves garlic, minced
+    * 1 tbsp minced fresh ginger (or 1/2 tsp ground ginger)
+
+    **SAUCE**
+    * 0.5 cup low-sodium soy sauce
+    * 0.5 cup warm water
     * 1 tbsp rice vinegar
-    * 1 tbsp Sriracha Hot Sauce
+    * 1 tbsp sriracha hot sauce
     * 1 tbsp mustard
     * 1 tbsp sesame oil
     * 1 tbsp sesame seeds
-    * 1 tbsp peanuts (optional)
+    * 2 tbsp lime juice
+    * 1 teaspoon blackpepper
+
+    **FOR SERVING** *optional*
+    * Fresh parsley
+
   directions_markdown: |-
-    1. Pre heat oven to 350°F.
-    2. Cream the butter and the sugar.
-    3. Add the golden syrup and the dry ingredients.
-    4. Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.
-    5. Bake at 350°F for 15 minutes.
-    6. Cool on a wire rack and keep in an airtight container once cold.
+    1. Prepare sauce by adding all the sauce ingredients to a small mixing bowl and whisking to combine. Set aside.
+    2. Heat a large rimmed skillet (I prefer this cast-iron skillet) over medium heat and cook the steak until just tender. Set aside.
+    3. Heat a separate large rimmed skillet (or pot) over medium heat. Once hot, add sesame oil (or water) and all the other vegetables. Stir to combine and sauté until just tender.
+    4. Add the steak and the sauce, increase the heat to medium-high heat, and cook until well combined and the mixture is very hot - about 5 minutes.
+    5. Serve with white rice and fresh parsley.
 ---
-The ultimate beef stir fry
+The ultimate beef stir fry.
 
 <!-- ![Cookie](https://source.unsplash.com/euGck1ifvp0)
 
