@@ -29,4 +29,4 @@ recipe:
     4. Squeeze the lemon in and add the spices.
     5. Stir and serve!
 ---
-This traditional Turkish lentil soup is a winter go-to.
+This traditional Turkish lentil soup is a winter classic.
