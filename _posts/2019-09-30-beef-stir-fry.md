@@ -31,8 +31,8 @@ recipe:
     * 2 tbsp lime juice
     * 1 teaspoon blackpepper
 
-    **FOR SERVING** *optional*
-    * Fresh parsley
+    **TOPPING** *optional*
+    * 1/4 cup chopped fresh Italian parsley leaves
 
   directions_markdown: |-
     1. Prepare sauce by adding all the sauce ingredients to a small mixing bowl and whisking to combine. Set aside.

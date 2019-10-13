@@ -14,6 +14,7 @@ recipe:
   prep: 15 minutes
   cook: 15 minutes
   ingredients_markdown: |-
+    **QUINOA**
     * 1 cup red quinoa
     * 2 cups of water
     * 1 red pepper
@@ -21,12 +22,16 @@ recipe:
     * 1 teaspoon red pepper paste
     * 1 teaspoon olive oil
     * 1 teaspoon ground cayenne pepper
-    * 1/2 cup chopped fresh Italian parsley leaves (optional)
+
+    **TOPPING** *optional*
+    * 1 small lemon, juiced
+    * 1/4 cup chopped fresh Italian parsley leaves
   directions_markdown: |-
     1. Chop the tomato and the red pepper in to small cubes.
-    2. In a pot, add all the ingredients and leave to boil.
+    2. In a pot, add all the quinoa ingredients and leave to boil.
     3. Get it to medium heat and cook for 5 more minutes, stir occasionaly.
-    4. Once the quinoa absorbs all the water, serve warm or cold.
+    4. Once the quinoa absorbs all the water.
+    5. Add the lemon juice and finish with parsley leaves. Serve warm or cold.
 ---
 Very tasty and light side dish that can also act as an entree from time to time.
 

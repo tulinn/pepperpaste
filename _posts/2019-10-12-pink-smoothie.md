@@ -21,7 +21,7 @@ recipe:
     * 1 tbsp peanut butter
     * 1 tbsp vegan protein powder (optional)
 
-    **TOPPINGS (optional)**
+    **TOPPING** *optional*
     * 1/2 medium banana, sliced
     * Fresh strawberries, sliced
     * 2 tbsp shredded unsweetened coconut
