@@ -3,6 +3,8 @@ date: 2019-09-29
 title: Beef Stir Fry
 categories:
   - Entree
+badges:
+  - dairy-free
 featured_image: /images/beef-stir-fry.jpg
 recipe:
   servings: 2 servings
@@ -14,13 +16,13 @@ recipe:
     * 1 medium red bell pepper, thinly sliced lengthwise
     * 1 medium onion, thinly sliced lengthwise
     * 1 cup carrots, thinly sliced lengthwise
-    * 0.5 cup green onions, diced
+    * 1/2 cup green onions, diced
     * 3 cloves garlic, minced
     * 1 tbsp minced fresh ginger (or 1/2 tsp ground ginger)
 
     **SAUCE**
-    * 0.5 cup low-sodium soy sauce
-    * 0.5 cup warm water
+    * 1/2 cup low-sodium soy sauce
+    * 1/2 cup warm water
     * 1 tbsp rice vinegar
     * 1 tbsp sriracha hot sauce
     * 1 tbsp mustard

@@ -3,6 +3,10 @@ date: 2019-09-29
 title: The Menemen
 categories:
   - Brunch
+badges:
+  - vegetarian
+  - gluten-free
+  - dairy-free
 featured_image: /images/the-menemen.jpg
 recipe:
   servings: 60 cookies

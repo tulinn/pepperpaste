@@ -3,6 +3,11 @@ date: 2019-09-07
 title: Mom's Lentil Soup
 categories:
   - Soup
+badges:
+  - vegetarian
+  - vegan
+  - gluten-free
+  - dairy-free
 featured_image: /images/lentil-soup.jpg
 recipe:
   servings: 6 servings

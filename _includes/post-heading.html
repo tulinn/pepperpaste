@@ -3,11 +3,28 @@
 		<a class="button" href="#recipe">Jump to recipe</a>
 	</div>
 {% endif %}
-<h1>
+<h1><b>
 	<a href="{{ include.post.url }}">
 		{{ include.post.title }}
-	</a>
+	</a></b>
 </h1>
 <time datetime="{{ include.post.date | date_to_xmlschema }}">
 	{{ include.post.date | date: "%B %-d, %Y" }}
 </time>
+
+{% for badge in include.post.badges %}
+	{% if badge == "vegan" %}
+		<span class="w3-tag w3-round w3-red w3-tiny"> {{ badge }} </span>
+	{% elsif badge == "vegetarian" %}
+		<span class="w3-tag w3-round w3-teal w3-tiny"> {{ badge }} </span>
+	{% elsif badge == "dairy-free" %}
+		<span class="w3-tag w3-round w3-blue w3-tiny"> {{ badge }} </span>
+	{% elsif badge == "gluten-free" %}
+		<span class="w3-tag w3-round w3-purple w3-tiny"> {{ badge }} </span>
+	{% elsif badge == "nut-free" %}
+		<span class="w3-tag w3-round w3-brown w3-tiny"> {{ badge }} </span>
+	{% elsif badge == "refined sugar-free" %}
+		<span class="w3-tag w3-round w3-pink w3-tiny"> {{ badge }} </span>
+	{% endif %}
+{% endfor %}
+<p></p>

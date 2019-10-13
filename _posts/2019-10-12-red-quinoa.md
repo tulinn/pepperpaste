@@ -1,8 +1,13 @@
 ---
-date: 2019-09-28
+date: 2019-10-12
 title: All is Red Quinoa
 categories:
   - Sides
+badges:
+  - vegetarian
+  - vegan
+  - gluten-free
+  - dairy-free
 featured_image: /images/red-quinoa.jpg
 recipe:
   servings: 2 bowls
@@ -16,7 +21,7 @@ recipe:
     * 1 teaspoon red pepper paste
     * 1 teaspoon olive oil
     * 1 teaspoon ground cayenne pepper
-    * 0.5 cup chopped fresh Italian parsley leaves (optional)
+    * 1/2 cup chopped fresh Italian parsley leaves (optional)
   directions_markdown: |-
     1. Chop the tomato and the red pepper in to small cubes.
     2. In a pot, add all the ingredients and leave to boil.

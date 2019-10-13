@@ -1,17 +1,22 @@
 ---
-date: 2019-09-29
+date: 2019-09-01
 title: Medidative Cookies
 categories:
   - Cookies
+badges:
+  - vegan
+  - dairy-free
+  - nut-free
+  - refined sugar-free
 featured_image: /images/medidative-cookie.jpg
 recipe:
   servings: 15 cookies
   prep: 30 minutes
   cook: 15 minutes
   ingredients_markdown: |-
-    * 0.5 cup coconut oil, melted
-    * 0.5 organic coconut sugar
-    * 0.5 cup unsweetened almond milk
+    * 1/2 cup coconut oil, melted
+    * 1/2 organic coconut sugar
+    * 1/2 cup unsweetened almond milk
     * 2 teaspoons vanilla
     * 2 cups all-purpose flour
     * 1 teaspoon baking powder
