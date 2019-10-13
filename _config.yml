@@ -2,7 +2,7 @@
 # Site
 
 title: Pepper Paste & Co
-url: "https://spring-bat.cloudvent.net/"
+url: "http://www.pepperpaste.co"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -75,11 +75,8 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
   - Pinterest
-  - Tumblr
   - Twitter
   - YouTube
   - RSS
